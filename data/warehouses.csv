@@ -1,0 +1,21 @@
+warehouse_id,warehouse_name,region,capacity_units,monthly_operating_cost
+WH001,Indore Distribution Centre,South,36531,445314
+WH002,Jaipur Distribution Centre,West,34540,494812
+WH003,Kolkata Distribution Centre,North,42443,621943
+WH004,Raipur Distribution Centre,West,36577,385461
+WH005,Ranchi Distribution Centre,West,24099,255523
+WH006,Bhopal Distribution Centre,South,43927,571358
+WH007,Delhi Distribution Centre,North,25558,475989
+WH008,Mumbai Distribution Centre,Central,22752,509124
+WH009,Surat Distribution Centre,East,41882,225696
+WH010,Bengaluru Distribution Centre,Central,24225,326812
+WH011,Lucknow Distribution Centre,West,14519,540886
+WH012,Nagpur Distribution Centre,West,27495,571162
+WH013,Patna Distribution Centre,West,38257,384551
+WH014,Guwahati Distribution Centre,North,18252,558239
+WH015,Ahmedabad Distribution Centre,South,27277,575595
+WH016,Kochi Distribution Centre,East,16287,362114
+WH017,Chennai Distribution Centre,East,34653,602101
+WH018,Pune Distribution Centre,North,27698,315514
+WH019,Chandigarh Distribution Centre,East,22896,292592
+WH020,Hyderabad Distribution Centre,North,19488,500772

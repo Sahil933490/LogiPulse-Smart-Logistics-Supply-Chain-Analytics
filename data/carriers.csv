@@ -1,0 +1,16 @@
+carrier_id,carrier_name,service_tier,base_rating
+CR01,Logistics Partner 01,Standard,4.0
+CR02,Logistics Partner 02,Express,3.9
+CR03,Logistics Partner 03,Express,3.3
+CR04,Logistics Partner 04,Express,3.6
+CR05,Logistics Partner 05,Standard,3.9
+CR06,Logistics Partner 06,Express,4.5
+CR07,Logistics Partner 07,Economy,3.6
+CR08,Logistics Partner 08,Standard,4.6
+CR09,Logistics Partner 09,Standard,4.1
+CR10,Logistics Partner 10,Economy,4.5
+CR11,Logistics Partner 11,Express,4.0
+CR12,Logistics Partner 12,Economy,4.0
+CR13,Logistics Partner 13,Express,4.3
+CR14,Logistics Partner 14,Economy,4.8
+CR15,Logistics Partner 15,Express,4.0

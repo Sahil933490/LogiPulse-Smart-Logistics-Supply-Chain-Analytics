@@ -1,0 +1,501 @@
+vehicle_id,vehicle_type,capacity_kg,fuel_type,status
+VH0001,Mini Truck,1989,Diesel,Active
+VH0002,Mini Truck,11410,CNG,Active
+VH0003,Mini Truck,12513,Diesel,Active
+VH0004,Heavy Truck,12263,CNG,Active
+VH0005,Heavy Truck,23054,Diesel,Active
+VH0006,Heavy Truck,4616,Diesel,Active
+VH0007,Heavy Truck,8352,Diesel,Maintenance
+VH0008,LCV,5342,Diesel,Active
+VH0009,Heavy Truck,6858,Diesel,Active
+VH0010,Mini Truck,22770,Diesel,Active
+VH0011,Mini Truck,23577,Electric,Maintenance
+VH0012,Heavy Truck,2071,Diesel,Active
+VH0013,LCV,16170,Diesel,Maintenance
+VH0014,Heavy Truck,6588,Electric,Active
+VH0015,Heavy Truck,5621,Diesel,Active
+VH0016,Heavy Truck,8009,Diesel,Active
+VH0017,Heavy Truck,5665,CNG,Active
+VH0018,Heavy Truck,12764,CNG,Active
+VH0019,LCV,24894,Diesel,Active
+VH0020,Mini Truck,15074,Diesel,Active
+VH0021,LCV,18357,Diesel,Active
+VH0022,LCV,12838,Diesel,Active
+VH0023,LCV,1333,Diesel,Active
+VH0024,Container,3018,Diesel,Active
+VH0025,LCV,7452,Diesel,Active
+VH0026,Mini Truck,6848,CNG,Active
+VH0027,LCV,21173,Diesel,Active
+VH0028,LCV,21246,Diesel,Active
+VH0029,Heavy Truck,21498,Diesel,Active
+VH0030,Heavy Truck,16302,CNG,Active
+VH0031,Heavy Truck,14348,Diesel,Active
+VH0032,Heavy Truck,16579,Diesel,Active
+VH0033,LCV,10763,Diesel,Active
+VH0034,Heavy Truck,17084,Diesel,Active
+VH0035,Mini Truck,20066,Diesel,Maintenance
+VH0036,Mini Truck,19309,CNG,Maintenance
+VH0037,Mini Truck,15731,Diesel,Active
+VH0038,Heavy Truck,2394,CNG,Active
+VH0039,LCV,18398,Electric,Active
+VH0040,Mini Truck,9798,Diesel,Active
+VH0041,Heavy Truck,18848,Diesel,Active
+VH0042,Mini Truck,13948,Diesel,Active
+VH0043,Heavy Truck,22148,CNG,Active
+VH0044,LCV,9122,Diesel,Active
+VH0045,LCV,23353,Diesel,Active
+VH0046,LCV,21267,Diesel,Maintenance
+VH0047,Heavy Truck,8946,CNG,Active
+VH0048,LCV,12581,Diesel,Active
+VH0049,Mini Truck,13752,Diesel,Active
+VH0050,Mini Truck,19447,Diesel,Active
+VH0051,Container,17539,Electric,Active
+VH0052,Container,21448,Diesel,Active
+VH0053,Heavy Truck,9876,Diesel,Active
+VH0054,LCV,13114,CNG,Active
+VH0055,Container,11340,Electric,Active
+VH0056,Heavy Truck,22829,Diesel,Active
+VH0057,Heavy Truck,8319,Diesel,Active
+VH0058,LCV,15090,CNG,Active
+VH0059,LCV,3883,CNG,Active
+VH0060,Mini Truck,21406,Diesel,Active
+VH0061,Container,10221,Diesel,Active
+VH0062,LCV,9174,CNG,Active
+VH0063,LCV,14990,CNG,Active
+VH0064,LCV,12971,CNG,Active
+VH0065,Heavy Truck,21351,Diesel,Active
+VH0066,Mini Truck,13753,Diesel,Active
+VH0067,Container,13407,Electric,Active
+VH0068,Heavy Truck,3519,CNG,Active
+VH0069,Heavy Truck,1526,CNG,Active
+VH0070,LCV,10565,Diesel,Active
+VH0071,Heavy Truck,24956,Diesel,Active
+VH0072,Heavy Truck,23016,CNG,Active
+VH0073,Heavy Truck,16095,Diesel,Maintenance
+VH0074,Mini Truck,16139,Electric,Active
+VH0075,LCV,10396,Diesel,Active
+VH0076,Mini Truck,5260,Diesel,Maintenance
+VH0077,LCV,1205,CNG,Active
+VH0078,LCV,9132,Diesel,Active
+VH0079,Mini Truck,8595,Diesel,Active
+VH0080,Mini Truck,5598,Diesel,Active
+VH0081,Heavy Truck,7220,Diesel,Active
+VH0082,Mini Truck,1595,Diesel,Active
+VH0083,Container,15591,Diesel,Active
+VH0084,Heavy Truck,23259,Electric,Active
+VH0085,LCV,17579,Diesel,Maintenance
+VH0086,Heavy Truck,11756,Diesel,Maintenance
+VH0087,Mini Truck,11086,Diesel,Active
+VH0088,Container,8380,Diesel,Active
+VH0089,LCV,4417,Diesel,Active
+VH0090,Heavy Truck,15363,Diesel,Active
+VH0091,Mini Truck,14596,Diesel,Active
+VH0092,LCV,1175,Diesel,Maintenance
+VH0093,LCV,10972,Electric,Active
+VH0094,Container,7672,Diesel,Active
+VH0095,Heavy Truck,5086,Diesel,Active
+VH0096,LCV,17872,CNG,Active
+VH0097,LCV,13619,CNG,Active
+VH0098,LCV,16210,Diesel,Active
+VH0099,Heavy Truck,18123,Diesel,Active
+VH0100,LCV,24563,Diesel,Active
+VH0101,Mini Truck,20266,Diesel,Active
+VH0102,Heavy Truck,15888,Diesel,Active
+VH0103,Container,22096,Diesel,Active
+VH0104,Mini Truck,12460,Diesel,Maintenance
+VH0105,Heavy Truck,24634,Diesel,Active
+VH0106,Mini Truck,19274,Electric,Active
+VH0107,Heavy Truck,16621,Diesel,Active
+VH0108,LCV,22679,Diesel,Maintenance
+VH0109,Heavy Truck,13361,Diesel,Active
+VH0110,Heavy Truck,18296,Diesel,Active
+VH0111,Heavy Truck,7833,Diesel,Active
+VH0112,Mini Truck,24117,CNG,Active
+VH0113,Container,15960,CNG,Maintenance
+VH0114,LCV,19768,Electric,Active
+VH0115,Mini Truck,12057,Electric,Maintenance
+VH0116,Heavy Truck,21803,Electric,Active
+VH0117,LCV,2780,Electric,Active
+VH0118,Heavy Truck,3738,Diesel,Active
+VH0119,Heavy Truck,13170,Diesel,Active
+VH0120,LCV,18577,Diesel,Active
+VH0121,Container,20421,Diesel,Maintenance
+VH0122,LCV,11562,Diesel,Active
+VH0123,Heavy Truck,16592,CNG,Active
+VH0124,LCV,14274,Diesel,Active
+VH0125,Container,24076,Diesel,Active
+VH0126,Mini Truck,16698,Diesel,Active
+VH0127,Mini Truck,11004,Diesel,Active
+VH0128,LCV,24275,Diesel,Active
+VH0129,Container,3574,CNG,Active
+VH0130,Container,24629,Diesel,Active
+VH0131,Heavy Truck,4696,CNG,Active
+VH0132,Container,7917,Diesel,Maintenance
+VH0133,Container,20715,Diesel,Active
+VH0134,Heavy Truck,18610,Diesel,Active
+VH0135,LCV,24288,CNG,Active
+VH0136,Heavy Truck,18999,CNG,Active
+VH0137,Heavy Truck,16288,Diesel,Maintenance
+VH0138,LCV,9315,Electric,Active
+VH0139,Mini Truck,1113,Diesel,Active
+VH0140,Heavy Truck,3972,CNG,Maintenance
+VH0141,LCV,8146,Diesel,Maintenance
+VH0142,Container,1982,Diesel,Active
+VH0143,LCV,13196,CNG,Active
+VH0144,Mini Truck,19656,Diesel,Active
+VH0145,Heavy Truck,24118,Diesel,Active
+VH0146,Mini Truck,12752,Diesel,Active
+VH0147,Mini Truck,22000,Diesel,Active
+VH0148,Heavy Truck,24652,Diesel,Active
+VH0149,Container,21635,CNG,Active
+VH0150,Mini Truck,12159,CNG,Active
+VH0151,LCV,8806,Diesel,Active
+VH0152,Heavy Truck,24470,Diesel,Active
+VH0153,Container,6805,Diesel,Active
+VH0154,Heavy Truck,10877,Diesel,Active
+VH0155,Mini Truck,2776,Diesel,Maintenance
+VH0156,Mini Truck,20048,Electric,Active
+VH0157,LCV,16596,CNG,Active
+VH0158,Mini Truck,3035,CNG,Active
+VH0159,Heavy Truck,6326,Diesel,Active
+VH0160,Mini Truck,14331,Diesel,Maintenance
+VH0161,Heavy Truck,13969,Diesel,Active
+VH0162,Heavy Truck,20249,Diesel,Active
+VH0163,Heavy Truck,7386,Diesel,Active
+VH0164,Mini Truck,23192,Diesel,Active
+VH0165,Heavy Truck,11667,Diesel,Active
+VH0166,Heavy Truck,20741,Electric,Active
+VH0167,Heavy Truck,6721,Diesel,Active
+VH0168,Mini Truck,1887,Electric,Active
+VH0169,Mini Truck,2321,Diesel,Active
+VH0170,Container,9944,Diesel,Active
+VH0171,LCV,23875,Diesel,Active
+VH0172,LCV,2168,Diesel,Maintenance
+VH0173,LCV,9855,Diesel,Active
+VH0174,Heavy Truck,3622,Diesel,Active
+VH0175,Container,23357,Electric,Active
+VH0176,LCV,17207,Diesel,Active
+VH0177,Container,19304,Diesel,Active
+VH0178,Mini Truck,18118,Diesel,Active
+VH0179,Heavy Truck,16768,Diesel,Maintenance
+VH0180,Heavy Truck,19569,Diesel,Active
+VH0181,Mini Truck,1194,Diesel,Active
+VH0182,Mini Truck,21770,Electric,Active
+VH0183,LCV,18756,CNG,Active
+VH0184,Container,18746,CNG,Active
+VH0185,Heavy Truck,10442,Diesel,Active
+VH0186,Container,20220,Diesel,Active
+VH0187,Heavy Truck,10163,Electric,Active
+VH0188,LCV,2175,Diesel,Maintenance
+VH0189,Heavy Truck,22787,Diesel,Active
+VH0190,Mini Truck,6628,Diesel,Active
+VH0191,Mini Truck,3445,CNG,Active
+VH0192,Heavy Truck,15925,Diesel,Active
+VH0193,Heavy Truck,6607,CNG,Active
+VH0194,LCV,21595,CNG,Active
+VH0195,Heavy Truck,11650,Diesel,Active
+VH0196,Heavy Truck,1108,Electric,Active
+VH0197,Container,23841,Diesel,Active
+VH0198,Heavy Truck,13351,Diesel,Active
+VH0199,LCV,7311,Diesel,Active
+VH0200,LCV,17254,Electric,Active
+VH0201,LCV,13734,Diesel,Active
+VH0202,Heavy Truck,1710,Diesel,Active
+VH0203,Container,19231,Diesel,Maintenance
+VH0204,LCV,10632,Diesel,Active
+VH0205,LCV,17795,Diesel,Active
+VH0206,LCV,22495,Diesel,Active
+VH0207,Heavy Truck,15654,Diesel,Active
+VH0208,Heavy Truck,17118,Electric,Active
+VH0209,Mini Truck,7111,Diesel,Active
+VH0210,Mini Truck,6703,CNG,Active
+VH0211,Heavy Truck,10960,Diesel,Active
+VH0212,Mini Truck,21466,Diesel,Active
+VH0213,Heavy Truck,13580,Diesel,Active
+VH0214,LCV,9352,Diesel,Active
+VH0215,Mini Truck,19710,Electric,Active
+VH0216,Container,21480,Diesel,Active
+VH0217,Mini Truck,22660,Diesel,Active
+VH0218,LCV,8174,Diesel,Active
+VH0219,Mini Truck,18031,CNG,Maintenance
+VH0220,Mini Truck,15167,Diesel,Active
+VH0221,Mini Truck,11775,Diesel,Active
+VH0222,Mini Truck,10526,CNG,Active
+VH0223,Mini Truck,3749,CNG,Active
+VH0224,Mini Truck,7595,Electric,Active
+VH0225,Heavy Truck,14191,Diesel,Active
+VH0226,Heavy Truck,22277,Diesel,Active
+VH0227,LCV,21792,Diesel,Active
+VH0228,LCV,5502,Electric,Active
+VH0229,Heavy Truck,17303,Diesel,Active
+VH0230,Container,3035,CNG,Active
+VH0231,Container,17200,Diesel,Active
+VH0232,Mini Truck,9206,Diesel,Active
+VH0233,Mini Truck,11796,Diesel,Active
+VH0234,LCV,18223,Diesel,Active
+VH0235,LCV,11197,Electric,Active
+VH0236,Heavy Truck,20378,Diesel,Active
+VH0237,LCV,13805,Diesel,Active
+VH0238,Mini Truck,24969,Diesel,Active
+VH0239,LCV,16317,Diesel,Active
+VH0240,Heavy Truck,8112,Diesel,Active
+VH0241,Mini Truck,19606,Diesel,Active
+VH0242,Heavy Truck,10790,Diesel,Active
+VH0243,Mini Truck,13820,Diesel,Active
+VH0244,Container,4283,Diesel,Active
+VH0245,Mini Truck,3864,Diesel,Active
+VH0246,Heavy Truck,14796,Diesel,Active
+VH0247,Container,5480,Diesel,Active
+VH0248,Container,24941,Diesel,Active
+VH0249,Heavy Truck,21536,CNG,Active
+VH0250,Heavy Truck,17821,CNG,Active
+VH0251,Heavy Truck,18632,Diesel,Active
+VH0252,Heavy Truck,15285,Diesel,Active
+VH0253,Mini Truck,2446,Diesel,Active
+VH0254,Heavy Truck,10416,Diesel,Active
+VH0255,Heavy Truck,12899,Diesel,Active
+VH0256,Container,22967,Diesel,Active
+VH0257,LCV,6267,Diesel,Active
+VH0258,LCV,12925,Electric,Maintenance
+VH0259,Heavy Truck,9257,Diesel,Active
+VH0260,LCV,4224,Diesel,Active
+VH0261,Mini Truck,3472,Diesel,Active
+VH0262,LCV,9769,Electric,Maintenance
+VH0263,LCV,2978,Diesel,Active
+VH0264,LCV,2612,Diesel,Active
+VH0265,LCV,9420,Diesel,Active
+VH0266,LCV,5847,Diesel,Active
+VH0267,LCV,14315,Electric,Active
+VH0268,LCV,1424,Diesel,Active
+VH0269,Heavy Truck,8243,Diesel,Active
+VH0270,LCV,11878,Diesel,Active
+VH0271,Container,24115,Diesel,Active
+VH0272,Container,16228,CNG,Active
+VH0273,LCV,22137,Diesel,Active
+VH0274,LCV,9239,Diesel,Active
+VH0275,Heavy Truck,11793,Electric,Active
+VH0276,Heavy Truck,11089,CNG,Active
+VH0277,Heavy Truck,22297,Diesel,Active
+VH0278,Heavy Truck,24021,Diesel,Active
+VH0279,Heavy Truck,24096,Diesel,Active
+VH0280,Heavy Truck,19047,Diesel,Maintenance
+VH0281,LCV,13074,Diesel,Active
+VH0282,Heavy Truck,13980,Diesel,Active
+VH0283,LCV,24532,Electric,Active
+VH0284,Heavy Truck,7828,Electric,Active
+VH0285,Container,9320,CNG,Active
+VH0286,Mini Truck,22527,Electric,Active
+VH0287,Heavy Truck,10271,CNG,Maintenance
+VH0288,Mini Truck,6642,CNG,Active
+VH0289,Heavy Truck,14451,CNG,Active
+VH0290,Mini Truck,8808,Diesel,Active
+VH0291,Container,22380,Diesel,Active
+VH0292,Mini Truck,22817,Diesel,Active
+VH0293,Container,8344,Diesel,Active
+VH0294,Heavy Truck,13709,Diesel,Maintenance
+VH0295,Heavy Truck,24615,Diesel,Active
+VH0296,Heavy Truck,18815,Diesel,Active
+VH0297,Heavy Truck,6175,Diesel,Active
+VH0298,Container,15177,Diesel,Active
+VH0299,LCV,15877,CNG,Active
+VH0300,Heavy Truck,16682,CNG,Active
+VH0301,Mini Truck,1600,Diesel,Active
+VH0302,Heavy Truck,8185,Diesel,Active
+VH0303,Mini Truck,21510,Diesel,Active
+VH0304,Heavy Truck,6792,CNG,Active
+VH0305,Heavy Truck,8192,CNG,Active
+VH0306,LCV,8739,Diesel,Active
+VH0307,Heavy Truck,5257,CNG,Active
+VH0308,Heavy Truck,4730,Diesel,Maintenance
+VH0309,Heavy Truck,9328,Diesel,Active
+VH0310,LCV,21983,Electric,Active
+VH0311,Heavy Truck,1036,Diesel,Active
+VH0312,Container,7797,Diesel,Active
+VH0313,Mini Truck,2455,Diesel,Active
+VH0314,Mini Truck,14475,Diesel,Active
+VH0315,Mini Truck,7014,Electric,Active
+VH0316,Heavy Truck,20007,Electric,Active
+VH0317,LCV,15040,Diesel,Active
+VH0318,Heavy Truck,19811,Diesel,Active
+VH0319,Heavy Truck,16237,CNG,Active
+VH0320,LCV,11521,Diesel,Maintenance
+VH0321,Container,21663,CNG,Active
+VH0322,Heavy Truck,12430,Diesel,Active
+VH0323,LCV,23798,Diesel,Active
+VH0324,LCV,24872,CNG,Active
+VH0325,LCV,15136,Diesel,Active
+VH0326,Mini Truck,17190,Diesel,Active
+VH0327,Mini Truck,7135,Diesel,Active
+VH0328,Container,20551,Diesel,Active
+VH0329,LCV,17118,Diesel,Active
+VH0330,LCV,22661,Diesel,Active
+VH0331,Heavy Truck,7408,Electric,Active
+VH0332,Heavy Truck,19902,Electric,Active
+VH0333,Container,12286,Diesel,Active
+VH0334,Heavy Truck,5444,Diesel,Active
+VH0335,LCV,5108,CNG,Active
+VH0336,LCV,14492,Electric,Maintenance
+VH0337,Container,8666,Diesel,Active
+VH0338,Heavy Truck,3445,Diesel,Active
+VH0339,Container,11251,Diesel,Maintenance
+VH0340,Mini Truck,16670,Diesel,Active
+VH0341,Container,8654,Diesel,Active
+VH0342,Heavy Truck,23928,Diesel,Active
+VH0343,Mini Truck,19709,CNG,Active
+VH0344,Heavy Truck,13305,CNG,Active
+VH0345,Heavy Truck,23431,CNG,Active
+VH0346,Mini Truck,11391,Diesel,Active
+VH0347,LCV,4352,Diesel,Active
+VH0348,Heavy Truck,1860,CNG,Active
+VH0349,LCV,23512,CNG,Active
+VH0350,LCV,24034,Diesel,Active
+VH0351,LCV,18742,CNG,Active
+VH0352,LCV,3472,Diesel,Active
+VH0353,Container,8047,CNG,Active
+VH0354,Heavy Truck,1985,Diesel,Active
+VH0355,Mini Truck,2229,Diesel,Active
+VH0356,Container,6905,Diesel,Maintenance
+VH0357,Container,14731,Diesel,Active
+VH0358,LCV,2572,Diesel,Active
+VH0359,Heavy Truck,24630,Diesel,Active
+VH0360,Mini Truck,11922,Diesel,Active
+VH0361,Container,7332,CNG,Active
+VH0362,Heavy Truck,13386,Diesel,Active
+VH0363,Heavy Truck,19963,Diesel,Active
+VH0364,Mini Truck,8501,CNG,Active
+VH0365,Container,2140,Diesel,Active
+VH0366,Mini Truck,2223,Diesel,Active
+VH0367,LCV,21447,CNG,Active
+VH0368,Mini Truck,3678,CNG,Active
+VH0369,Heavy Truck,16253,Diesel,Active
+VH0370,Mini Truck,10228,CNG,Active
+VH0371,Container,19660,Diesel,Active
+VH0372,Heavy Truck,2452,Diesel,Active
+VH0373,Mini Truck,22547,CNG,Active
+VH0374,Mini Truck,17756,Diesel,Active
+VH0375,Mini Truck,11782,CNG,Active
+VH0376,Heavy Truck,5968,Diesel,Active
+VH0377,Heavy Truck,24451,CNG,Maintenance
+VH0378,LCV,8249,Diesel,Active
+VH0379,Heavy Truck,12772,Diesel,Active
+VH0380,Mini Truck,10459,Diesel,Active
+VH0381,Heavy Truck,6533,Diesel,Active
+VH0382,Container,10998,CNG,Active
+VH0383,Heavy Truck,4635,Diesel,Active
+VH0384,Heavy Truck,1039,Diesel,Active
+VH0385,Heavy Truck,7959,Diesel,Active
+VH0386,Mini Truck,3689,Diesel,Active
+VH0387,LCV,10954,CNG,Active
+VH0388,Mini Truck,21706,Diesel,Active
+VH0389,Heavy Truck,4901,Electric,Active
+VH0390,Heavy Truck,1029,Diesel,Active
+VH0391,Heavy Truck,3666,Diesel,Active
+VH0392,Container,13196,Diesel,Active
+VH0393,Mini Truck,7596,Diesel,Active
+VH0394,Heavy Truck,12748,CNG,Active
+VH0395,Mini Truck,1701,Electric,Active
+VH0396,LCV,8994,CNG,Active
+VH0397,Heavy Truck,10843,Diesel,Active
+VH0398,Container,11351,Diesel,Active
+VH0399,Heavy Truck,14227,Diesel,Active
+VH0400,Mini Truck,19733,Diesel,Maintenance
+VH0401,Heavy Truck,12213,CNG,Active
+VH0402,Mini Truck,21188,Diesel,Active
+VH0403,Container,13713,Diesel,Maintenance
+VH0404,Heavy Truck,7248,CNG,Active
+VH0405,Mini Truck,6496,Diesel,Active
+VH0406,Mini Truck,8739,Diesel,Active
+VH0407,Mini Truck,15339,Diesel,Maintenance
+VH0408,Container,6819,Diesel,Active
+VH0409,LCV,22940,Diesel,Active
+VH0410,Heavy Truck,12516,Diesel,Active
+VH0411,Heavy Truck,21718,Diesel,Active
+VH0412,Heavy Truck,17398,CNG,Active
+VH0413,Mini Truck,9000,CNG,Active
+VH0414,Container,6478,Diesel,Maintenance
+VH0415,LCV,18854,Diesel,Active
+VH0416,Heavy Truck,8937,Diesel,Active
+VH0417,Heavy Truck,6924,Diesel,Active
+VH0418,Heavy Truck,23329,Diesel,Active
+VH0419,Container,12583,Diesel,Active
+VH0420,Mini Truck,2165,Diesel,Active
+VH0421,Heavy Truck,12874,Diesel,Active
+VH0422,LCV,12058,Diesel,Active
+VH0423,LCV,21735,Diesel,Active
+VH0424,Mini Truck,18077,CNG,Active
+VH0425,Mini Truck,5592,Diesel,Active
+VH0426,LCV,4610,Diesel,Active
+VH0427,LCV,15486,CNG,Active
+VH0428,LCV,2136,Diesel,Active
+VH0429,Heavy Truck,8656,Diesel,Active
+VH0430,Heavy Truck,4316,Electric,Active
+VH0431,LCV,1493,Diesel,Active
+VH0432,LCV,23051,Diesel,Maintenance
+VH0433,LCV,3155,Diesel,Active
+VH0434,Heavy Truck,1222,Diesel,Active
+VH0435,LCV,23389,Diesel,Active
+VH0436,Mini Truck,5519,Diesel,Active
+VH0437,LCV,20597,Diesel,Active
+VH0438,LCV,1750,Diesel,Active
+VH0439,LCV,4685,Diesel,Active
+VH0440,Heavy Truck,3655,Diesel,Active
+VH0441,Heavy Truck,17950,Diesel,Active
+VH0442,Heavy Truck,15883,CNG,Active
+VH0443,Heavy Truck,12412,Diesel,Active
+VH0444,Heavy Truck,6799,Diesel,Active
+VH0445,LCV,3132,Diesel,Maintenance
+VH0446,Heavy Truck,14661,Diesel,Active
+VH0447,Heavy Truck,6537,Diesel,Active
+VH0448,LCV,15164,Diesel,Active
+VH0449,Heavy Truck,17499,Diesel,Active
+VH0450,LCV,21386,CNG,Active
+VH0451,Heavy Truck,12855,Electric,Active
+VH0452,Heavy Truck,1113,Diesel,Active
+VH0453,Container,7736,Diesel,Active
+VH0454,Container,21480,Diesel,Active
+VH0455,Heavy Truck,13798,Diesel,Active
+VH0456,Heavy Truck,15858,Diesel,Active
+VH0457,Heavy Truck,11987,CNG,Active
+VH0458,LCV,4905,CNG,Active
+VH0459,Heavy Truck,22520,CNG,Maintenance
+VH0460,LCV,19550,Diesel,Active
+VH0461,Mini Truck,24884,Electric,Maintenance
+VH0462,Mini Truck,21531,Diesel,Active
+VH0463,Heavy Truck,7987,Diesel,Active
+VH0464,Mini Truck,7102,Diesel,Active
+VH0465,LCV,6963,Electric,Active
+VH0466,LCV,23051,Diesel,Active
+VH0467,Mini Truck,14366,CNG,Active
+VH0468,LCV,11906,Diesel,Maintenance
+VH0469,Heavy Truck,24238,Electric,Active
+VH0470,Mini Truck,15482,Diesel,Active
+VH0471,Heavy Truck,22826,Diesel,Active
+VH0472,Container,24631,Electric,Active
+VH0473,LCV,2906,Diesel,Active
+VH0474,Mini Truck,9676,Diesel,Active
+VH0475,Heavy Truck,18619,Diesel,Active
+VH0476,Mini Truck,20515,Diesel,Active
+VH0477,LCV,4563,Diesel,Active
+VH0478,Container,8641,Diesel,Active
+VH0479,Container,14156,Diesel,Active
+VH0480,Heavy Truck,20181,CNG,Active
+VH0481,LCV,3711,Diesel,Active
+VH0482,Heavy Truck,15417,Diesel,Active
+VH0483,Heavy Truck,8114,Diesel,Active
+VH0484,LCV,6192,Diesel,Active
+VH0485,Heavy Truck,13369,Diesel,Active
+VH0486,Mini Truck,10936,Electric,Active
+VH0487,LCV,16257,Electric,Active
+VH0488,Heavy Truck,8623,Diesel,Active
+VH0489,Mini Truck,20758,Diesel,Active
+VH0490,Mini Truck,2874,Diesel,Active
+VH0491,Heavy Truck,21685,Diesel,Active
+VH0492,Container,1716,Diesel,Active
+VH0493,Heavy Truck,18661,Diesel,Active
+VH0494,Heavy Truck,9315,Diesel,Active
+VH0495,Container,10200,Diesel,Active
+VH0496,Mini Truck,1456,Diesel,Active
+VH0497,LCV,17850,Diesel,Active
+VH0498,LCV,4971,Diesel,Active
+VH0499,Mini Truck,16819,Diesel,Active
+VH0500,Heavy Truck,18404,CNG,Active
